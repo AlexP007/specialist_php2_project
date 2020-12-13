@@ -687,10 +687,10 @@ ul.sub-menu.list-unstyled.sub-menu3 {
 	color:#602D8D;
 	text-transform:uppercase;
 }
-.sort,.show{
+.sort,.show, .apply{
 	float:right;
 	width:14%;
-	margin-left:1.6%;
+	margin-left:4.6%;
 	padding-top:5px;
 }
 .sort p,.show p{

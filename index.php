@@ -5,30 +5,29 @@
                 <div class="heading">
                     <h3>Feature Products</h3>
                 </div>
-                <div class="sort">
-                    <p>Sort by:
-                        <select>
-                            <option>Lowest Price</option>
-                            <option>Highest Price</option>
-                            <option>Lowest Price</option>
-                            <option>Lowest Price</option>
-                            <option>Lowest Price</option>
-                            <option>In Stock</option>
-                        </select>
-                    </p>
-                </div>
-                <div class="show">
-                    <p>Show:
-                        <select>
-                            <option>4</option>
-                            <option>8</option>
-                            <option>12</option>
-                            <option>16</option>
-                            <option>20</option>
-                            <option>In Stock</option>
-                        </select>
-                    </p>
-                </div>
+                <form>
+                    <div class="apply">
+                        <button>Apply</button>
+                    </div>
+                    <div class="sort">
+                        <p>Sort by:
+                            <select>
+                                <option>Lowest Price</option>
+                                <option>Highest Price</option>
+                            </select>
+                        </p>
+                    </div>
+                    <div class="show">
+                        <p>Show:
+                            <select>
+                                <option>4</option>
+                                <option>8</option>
+                                <option>12</option>
+                                <option>16</option>
+                            </select>
+                        </p>
+                    </div>
+                </form>
                 <div class="clear"></div>
             </div>
             <div class="section group">
